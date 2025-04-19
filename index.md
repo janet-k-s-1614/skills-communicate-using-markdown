@@ -1,3 +1,6 @@
 ## HeAdEr
 ##### smallER
-[image of doodle]![Mox pretty pose](https://github.com/user-attachments/assets/0eadf45c-0b70-47eb-b985-d564ed01f008)
+[image of doodle]![Mox pretty pose (2)](https://github.com/user-attachments/assets/e6f70d7a-5781-46c5-8f1d-8b6a0915b0f9)
+``` javascript
+var myVar = "LOTS to learn!";
+```
